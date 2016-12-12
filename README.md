@@ -1,5 +1,9 @@
 # digitalcharta
 
+Kopie des Textes von https://digitalcharta.eu/
+
+
+
 Wir fordern Digitale Grundrechte
 
 Charta der Digitalen Grundrechte der Europäischen Union
